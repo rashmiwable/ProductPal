@@ -45,3 +45,5 @@ Client-Server application development
 
 ### Project Tracker
 https://trello.com/b/WcaUJThK/productpal
+wireframe link
+https://github.com/rashmiwable/ProductPal/blob/master/wireframe.jpg
